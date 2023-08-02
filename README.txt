@@ -1,0 +1,1 @@
+This is a very simple project to practice and demonstrate the fundamentals of HTML. It involves linking to various pages, embedded images, and some basic page layout functionality, like lists, headers, and paragraphs.
