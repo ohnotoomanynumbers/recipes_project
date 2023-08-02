@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    color: darkblue;
+}
+
+.title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img-link {
+    width: 45%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.img-link:hover {
+    width: 47%;
+    height: 310px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.recipe-img {
+    width: 100%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
